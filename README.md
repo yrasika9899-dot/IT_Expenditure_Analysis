@@ -53,11 +53,14 @@ The Power BI dashboard includes:
 IT-Expenditure-Analysis/
 │
 ├── README.md
-├── Data/
-│   └── IT Expenditure dataset.xlsx
-└── PowerBI/
-    └── IT Expenditure Analysis.pbix
+├── IT Expenditure dataset.xlsx
+├── IT Expenditure Analysis.pbix
+└── IT Expenditure Analysis Images
 ```
+## Dashboard Preview
+
+### Executive Summary
+![Dashboard Overview](Analysis_1.png)
 
 ## Conclusion
 
